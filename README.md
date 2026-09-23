@@ -38,3 +38,7 @@ My goal is to build strong technical skills, work on meaningful projects, and gr
 📫 Connect With Me
 
 - GitHub: "varshashreen2007-cmd"
+- LinkedIn:www.linkedin.com/in/varsha-shree-n-00a30136b
+## Technical Interests
+
+I am interested in Artificial Intelligence, Data Science, Machine Learning, and software development. I enjoy learning new technologies and applying them through practical projects.
