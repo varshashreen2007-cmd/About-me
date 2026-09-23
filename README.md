@@ -42,3 +42,7 @@ My goal is to build strong technical skills, work on meaningful projects, and gr
 ## Technical Interests
 
 I am interested in Artificial Intelligence, Data Science, Machine Learning, and software development. I enjoy learning new technologies and applying them through practical projects.
+
+## Project Focus
+
+I enjoy building practical projects that combine programming, data, and problem-solving. My projects help me strengthen my technical knowledge and gain hands-on development experience.
